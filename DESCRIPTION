@@ -29,3 +29,5 @@ Imports:
 Collate: 
     'exercises.R'
     'learnsqlr.R'
+URL: https://github.com/dirkschumacher/learnsqlr
+BugReports: https://github.com/dirkschumacher/learnsqlr/issues
