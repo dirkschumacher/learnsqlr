@@ -10,7 +10,7 @@ Currently all hacked together to test the idea and get feedback.
 ## Installation
 
 ``` r
-remotes::install_github("dirkschumacher/leansqlr")
+remotes::install_github("dirkschumacher/learnsqlr")
 ```
 
 ## Example
