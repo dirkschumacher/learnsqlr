@@ -1,0 +1,31 @@
+Package: learnsqlr
+Title: Learn SQL using R and duckdb
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Dirk",
+           family = "Schumacher",
+           role = c("aut", "cre"),
+           email = "mail@dirk-schumacher.net")
+Description: Exactly what you think it does.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
+Imports: 
+    rstudioapi,
+    shiny,
+    miniUI,
+    data.table,
+    dplyr,
+    duckdb,
+    DBI,
+    palmerpenguins,
+    tibble,
+    purrr,
+    shinyjs,
+    shinyAce,
+    styler
+Collate: 
+    'exercises.R'
+    'learnsqlr.R'
